@@ -1,0 +1,9 @@
+datasets
+numpy
+quinine @ git+https://github.com/olletorstensson/quinine.git
+ray
+torch
+transformers
+wandb
+conllu
+ipython
